@@ -1,0 +1,11 @@
+id,name,gender,physics,chemistry,maths,biology,language,selected
+1,Leone,Female,50,60,56,77,80,TRUE
+2,Romola,Female,60,80,77,99,87,FALSE
+3,Geri,Male,65,90,44,78,90,FALSE
+4,Sandy,Female,95,90,44,97,97,FALSE
+5,Jacenta,Female,31,90,56,98,98,TRUE
+6,Diane-marie,Female,45,88,58,67,98,TRUE
+7,Austen,Male,45,78,68,68,99,TRUE
+8,Vanya,Male,70,79,79,69,28,FALSE
+9,Giordano,Male,36,82,78,55,27,FALSE
+10,Rozele,Female,50,89,78,48,27,FALSE
